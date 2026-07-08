@@ -1,0 +1,48 @@
+CodeAlpha Bioinformatics Internship
+
+Overview
+
+This repository contains the work completed during my CodeAlpha Bioinformatics Internship. The internship provided hands-on experience in biological sequence analysis, data retrieval, and the use of bioinformatics tools for analyzing DNA and protein sequences.
+
+Internship Details
+
+- Internship: CodeAlpha Bioinformatics Internship
+- Domain: Bioinformatics
+- Role: Bioinformatics Intern
+
+Tasks Completed
+
+- Performed DNA and protein sequence analysis.
+- Retrieved biological sequences from public databases such as NCBI and UniProt.
+- Conducted sequence similarity analysis using BLAST.
+- Studied sequence alignment and interpreted biological results.
+- Documented observations and findings in a detailed internship report.
+
+Tools & Resources Used
+
+- NCBI
+- UniProt
+- BLAST
+- FASTA Format
+- Microsoft Word
+- Microsoft Excel
+
+Repository Contents
+
+- Internship_Report.pdf – Detailed report of the internship tasks and results.
+- images/ – Screenshots of analysis and results.
+- sequences/ – Sample DNA and protein sequence files (FASTA format).
+- results/ – Output files generated during the analysis.
+
+Skills Gained
+
+- Bioinformatics data analysis
+- DNA and protein sequence analysis
+- Biological database searching
+- BLAST analysis
+- Scientific documentation
+- Data interpretation
+
+Acknowledgement
+
+I would like to thank CodeAlpha for providing this internship opportunity and helping me gain practical exposure to bioinformatics tools and biological data analysis.
